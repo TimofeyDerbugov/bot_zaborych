@@ -175,7 +175,7 @@ dem = 0
 vor = 0
 rust = 0
 zaz = 0
-# API_TOKEN = 'ТОКЕН'
+APITOKEN = os.getenv("APITOKEN")
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import Command
 import asyncio
