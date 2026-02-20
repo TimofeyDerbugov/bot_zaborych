@@ -1,7 +1,5 @@
 aiogram
-os
 csv
-math
 time
 asyncio
 reportlab
