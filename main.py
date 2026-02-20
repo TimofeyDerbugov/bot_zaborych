@@ -176,7 +176,7 @@ dem = 0
 vor = 0
 rust = 0
 zaz = 0
-API_TOKEN = '8360048034:AAFhMutaAqRBCElG4blTcIc2fU73qPxOgSI'
+API_TOKEN = 'ТОКЕН'
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import Command
 import asyncio
