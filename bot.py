@@ -4,7 +4,6 @@ import os
 import time
 import os
 import asyncio
-from tkinter import Image
 import os
 import asyncio
 from aiogram import Bot, Dispatcher, types
