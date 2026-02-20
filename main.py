@@ -183,7 +183,7 @@ import asyncio
 from aiogram.fsm.context import FSMContext
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-bot = Bot(token=API_TOKEN)
+bot = Bot(token=APITOKEN)
 dp = Dispatcher()
 
 user_numbers = {}
